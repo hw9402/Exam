@@ -28,8 +28,6 @@
 > 구조적이고 모듈화된 알고리즘을 표현하기에 효과적이고 쉽게 작성할 수 있으며, 가독성이 좋은 표현 방법
 
 # 알고리즘 수행시간 표 (1)
-<img src="https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lesson/les_AOvvL_1629701194488/bdff5780c4fccd828e00d8d4d205529795bdeebc0a14d07d9c1fddad4094a448.png">
-
 |시간복잡도|n=1|n=2|n=4|n=8|n=16|n=32|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|1|1|1|1|1|1|
